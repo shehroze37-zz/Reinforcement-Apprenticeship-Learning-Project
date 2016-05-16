@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 To run the examples, [freedoom2.wad]( https://freedoom.github.io/download.html) should be placed in the  ``scenarios`` subdirectory.
 Furthermore, you need to have ``vizdoom.so/vizdoom.pyd`` present (or symlinked) in the ``examples/python`` directory (on Linux it should be done automatically by the building process).
 
@@ -36,3 +37,6 @@ Shows how to run deterministic episodes by setting the seed. After setting the s
 
 ###[spectator.py](https://github.com/Marqt/ViZDoom/blob/master/examples/python/spectator.py)
 Shows how to use the *SPECTATOR* mode in which YOU play Doom and AI is the spectator (intended for apprenticeship learning).
+=======
+# Reinforcement-Apprenticeship-Learning-Project
+>>>>>>> b12e27e8fb501c7cf304390bd6d817f8ece4e356
